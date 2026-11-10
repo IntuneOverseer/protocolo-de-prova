@@ -1,5 +1,7 @@
 # Perfil de ambiente (EXEMPLO FICTÍCIO)
 
+English version: [environment-profile.example.md](environment-profile.example.md)
+
 > Este é um modelo. Todos os nomes, domínios e endereços abaixo são inventados (domínios e IPs reservados para documentação).
 > O seu perfil real é **seu**: mantenha local, não publique, não cole em chamado e **nunca** coloque senhas, tokens ou chaves aqui.
 > Só entram fatos `[declarado]` (você disse) ou `[provado]` (um comando mostrou). Nada de suposição.
@@ -39,7 +41,7 @@
 
 ## Mecanismos mapeados neste ambiente (cresce com o uso)
 
-- `[provado]` Exemplo: o Windows PowerShell 5.1 bloqueia o módulo temporário de um serviço de nuvem por causa do `AllSigned`; o PowerShell 7 resolve sem mexer na política. *(Evidência: saída do erro de assinatura e execução bem-sucedida no PowerShell 7.)*
+- `[provado]` Exemplo: um script não assinado é bloqueado pela política `AllSigned`; assinar o script resolve sem mexer na política. *(Evidência: saída do erro de assinatura e execução bem-sucedida após assinar.)*
 
 ## Como o assistente usa este arquivo
 

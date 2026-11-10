@@ -1,7 +1,7 @@
 # Protocolo de Prova
 
 **Diagnóstico de problemas complexos, fechamento de chamados e engenharia reversa/desenvolvimento.**
-Versão 0.1 (rascunho)
+Versão 0.2 (rascunho) · English version: [PROOF-PROTOCOL.md](PROOF-PROTOCOL.md)
 
 ## Como usar
 

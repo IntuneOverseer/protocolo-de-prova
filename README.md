@@ -4,12 +4,12 @@ Um protocolo para assistentes de IA (e para pessoas) conduzirem **diagnóstico d
 
 > **Sem prova não avança. Sem contraprova não fecha.**
 
-*Status: rascunho 0.1. Versão em inglês: a fazer.*
+*Status: rascunho 0.2.* · **English:** [README.en.md](README.en.md)
 
 > **Aviso importante / Important notice**
 >
-> **PT:** todos os nomes de empresas, servidores, dominios, contas e situacoes que aparecem nestes arquivos sao **ficticios** e servem apenas de exemplo. Nenhum dado real de organizacao ou de pessoa esta aqui.
-> O assistente aprende o seu ambiente **com o protocolo e com o operador**: nada avanca e nada fecha sem que o operador envie a saida da **prova** e da **contraprova**. Prova + contraprova = verdade comprovada nas condicoes testadas.
+> **PT:** todos os nomes de empresas, servidores, domínios, contas e situações que aparecem nestes arquivos são **fictícios** e servem apenas de exemplo. Nenhum dado real de organização ou de pessoa está aqui.
+> O assistente aprende o seu ambiente **com o protocolo e com o operador**: nada avança e nada fecha sem que o operador envie a saída da **prova** e da **contraprova**. Prova + contraprova = verdade comprovada nas condições testadas.
 >
 > **EN:** every company, server, domain, account and scenario name in these files is **fictional** and used only as an example. No real organization or personal data is included.
 > The assistant learns your environment **from the protocol and from the operator**: nothing advances and nothing closes until the operator sends the output of the **proof** and of the **counter-proof**. Proof + counter-proof = truth established under the tested conditions.
@@ -28,7 +28,7 @@ A ideia central não é "aumentar a taxa de acerto". É **impedir que uma hipót
 
 O caso é descrito de forma genérica: nenhuma organização, sistema ou pessoa é identificada.
 
-*Autoria: `KaLeK`, com apoio de um assistente de IA na redação e nos refinamentos.*
+*Autoria: KaLeK, com apoio de um assistente de IA na redação e nos refinamentos.*
 
 ## O que tem aqui
 
@@ -36,6 +36,7 @@ O caso é descrito de forma genérica: nenhuma organização, sistema ou pessoa 
 |---|---|
 | `PROTOCOLO-DE-PROVA.md` | O protocolo completo (é o arquivo que você cola nas instruções do assistente) |
 | `perfil-ambiente.exemplo.md` | Modelo **fictício** de perfil de ambiente |
+| `PROOF-PROTOCOL.md`, `README.en.md`, `environment-profile.example.md` | Versão em inglês dos três arquivos acima |
 | `README.md` | Este arquivo |
 
 ## Como usar
@@ -64,4 +65,4 @@ Sugestões de novos **mecanismos de mascaramento** (comportamentos enganosos rea
 
 ## Licença
 
-MIT (veja o arquivo LICENSE). Autoria: `KaLeK`.
+MIT (veja o arquivo `LICENSE`). Autoria: KaLeK.
